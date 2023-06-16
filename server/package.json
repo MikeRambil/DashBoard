@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Mike Rambil Jeswin Johnson",
+  "author": "Mike Rambil",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
