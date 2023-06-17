@@ -117,7 +117,7 @@ const Navbar = ({ user, isSidebarOpen, setIsSidebarOpen }) => {
               anchorEl={anchorEl}
               open={isOpen}
               onClose={handleClose}
-              achorOrigin={{ vertical: 'bottom', horizondal: 'center' }}
+              anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
             >
               <MenuItem onClick={handleClose}>Log Out</MenuItem>
             </Menu>
